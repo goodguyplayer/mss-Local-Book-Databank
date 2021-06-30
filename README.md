@@ -1,6 +1,5 @@
 # mss Local Book Databank
- 
- A small attempt at trying to learn microsservice architecture. 
+ A small attempt at trying to learn microsservice architecture. This is meant to represent a basic local databank where users can set and see what books are there in their own house/system.
 
  ## Usage
  To be defined
